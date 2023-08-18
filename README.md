@@ -1,2 +1,2 @@
 # Neural-Network-A1
-# Video link()
+# Video link  https://screenrec.com/share/tCuGaLZXx5
