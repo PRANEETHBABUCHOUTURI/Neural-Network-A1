@@ -20,3 +20,7 @@
 ----------------------------
 # Neural-Network-A5
 # Video Link https://screenrec.com/share/GOhMq592cg
+
+----------------------------
+# Neural-Network-A6
+# Video Link 
