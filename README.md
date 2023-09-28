@@ -26,3 +26,8 @@
 ----------------------------
 # Neural-Network-A6
 # Video Link 
+
+----------------------------
+# Neural-Network-A7
+# Video Link 
+
